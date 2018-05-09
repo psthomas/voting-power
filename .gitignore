@@ -1,0 +1,7 @@
+.DS_Store
+.ipynb_checkpoints/*
+notes.txt
+voting_power_scraps.ipynb
+outputs/*
+!outputs/countyvpi_2004-2016.csv
+
